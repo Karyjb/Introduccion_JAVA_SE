@@ -16,7 +16,7 @@ public class IncrementDecrement {
         System.out.println(lives);
         //Gana regalo por ganar vida
         //Postfijo
-         gift = 100 + ++lives;
+        gift = 100 + ++lives;
         System.out.println(gift);
         System.out.println(lives);
 
